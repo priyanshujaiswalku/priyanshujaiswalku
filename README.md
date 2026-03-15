@@ -12,7 +12,6 @@
 
 📫 How to reach me priyanshujaiswal8108@gmail.com
 
-📄 Know about my experiences https://drive.google.com/file/d/1Iryc-R4pQm2-pWvSUK-86HopjPu8MsjG/view?usp=drive_link
 
 
                                               
