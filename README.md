@@ -1,6 +1,6 @@
                                                   Hi👋, I am Priyanshu Kumar
 
-                                                  
+                                                   
                                               A passionate Software developer from India
 
 
