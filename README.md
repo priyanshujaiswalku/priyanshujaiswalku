@@ -1,4 +1,8 @@
                                                   Hi👋, I am Priyanshu Kumar
+                                                  
+Hi 👋, I'm Ashish Jha
+A passionate Software developer from India
+Coding
 FULL STACK DEVELOPER | MERN SPECIALIST (A passionate Software developer from India)
 
 
