@@ -1,9 +1,8 @@
                                                   Hi👋, I am Priyanshu Kumar
+
                                                   
-
-
-
-FULL STACK DEVELOPER | MERN SPECIALIST (A passionate Software developer from India)
+                                              A passionate Software developer from India
+                                              
 
 
 ## 🌐 Socials:
