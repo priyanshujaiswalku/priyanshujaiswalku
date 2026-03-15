@@ -1,5 +1,5 @@
-# 💫 About Me:
-FULL STACK DEVELOPER | MERN SPECIALIST
+                                                  # 💫 About Me:
+FULL STACK DEVELOPER | MERN SPECIALIST (A passionate Software developer from India)
 
 
 ## 🌐 Socials:
