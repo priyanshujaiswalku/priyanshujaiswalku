@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Tensorflow.js, Flask.
 
-👨‍💻 All of my projects are available at https://my-portfolio-react-livid.vercel.app/
+👨‍💻 All of my projects are available at my-portfolio-phi-nine-73.vercel.app
 
 💬 Ask me about MERN Stack Framework
 
